@@ -51,4 +51,3 @@ public class MainActivity extends AppCompatActivity implements DescriptionListFr
 }
 /*Intent.putExtra(DetailActivity.DESC_ID, (int) id);*/
 
-/*TEST REPO*/
