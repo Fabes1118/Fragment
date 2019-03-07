@@ -47,7 +47,8 @@ public class Descriptions {
                                                              "\n"+
                                                              "Incentive Travel: Travel Mall",
                         R.drawable.rewards),
-                new Descriptions("Book a demo", "         click the image to book a demo", R.drawable.demo),
+                new Descriptions("Book a demo", "         click the link below to book a demo\n" +
+                                                       "         https://meetings.hubspot.com/fabianh", R.drawable.demo),
                 new Descriptions("Contact Us", "                 Email: info@getplaya.co.za\n" +
                         "\n"+
                                                       "                 Tel: +2721-700 5201\n" +
